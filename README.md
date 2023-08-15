@@ -1,4 +1,3 @@
-# Trabalho-Multidisciplinar-POO
 Inclusão dos deficientes visuais no Cadastro Nacional de Informações Sociais (CNIS) 
 
 
